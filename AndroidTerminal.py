@@ -33,8 +33,10 @@ def f0():
             print("E:1")
         f0()
 #end
+#terminate program
     elif u0==m1:
     	os._exit(0)
+#end
 #create file command code
     elif u0==m2:
         print("File name with location")
